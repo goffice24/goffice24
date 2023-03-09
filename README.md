@@ -8,7 +8,8 @@ Specialized in
 - C#, .NET, MVC framework, .NET web APIs
 - MUI, Bootstrap, Tailwind
 - CI/CD: GitHub, Jira, Netlify, Vercel, AWS, GCP
-- Flutter, React Native
+- Flutter, React Native<br/>
+
 I am effective in strong communication skills while staying organized and remaining creatively active with projects.<br/>
 I want to grow personal and professional relations and experiences in the web development world by working and networking with people from all over the world. I am a reliable, motivated, organized individual who has interests in UI/UX design & Site optimization, Mobile responsive, third-party API integration, and so on.<br/>
 I will be always with you. Sincerely
