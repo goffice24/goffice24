@@ -1,8 +1,8 @@
 ## Profile
 Hi 👋
 I am a Front End Developer and Mobile Developer.<br/>
-Are you looking for a talented and reliable remote worker? Then, no hesitate to contact me!<br/>
-Specialized in <br/>
+Are you looking for a talented and reliable remote worker? Then, no hesitate to contact me!<br/><br/>
+Specialized in
 - Laravel, PHP
 - React.js, Next.js, Vue.js, Angular, Node.js
 - C#, .NET, MVC framework, .NET web APIs
